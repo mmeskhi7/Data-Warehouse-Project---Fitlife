@@ -1,1 +1,1 @@
-# Data-Warehouse-Project---Fitlife
+# Data Warehouse Project - Fitlife
